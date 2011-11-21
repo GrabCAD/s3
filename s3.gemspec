@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.name        = "s3"
   s.version     = S3::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Jakub Kuźma"]
+  s.authors     = ["Jakub Kuzma"]
   s.email       = ["qoobaa@gmail.com"]
   s.homepage    = "http://jah.pl/projects/s3.html"
   s.summary     = "Library for accessing S3 objects and buckets"
